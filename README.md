@@ -11,4 +11,4 @@ The aim of the projet was to cluster clients of a fitness centre and determine c
 
 The clusterization was done using K-means algorithm. 
 _________________________________________________________________
-The work can be found both in English and Russian in the relater .ipynb files.
+The work can be found both in English and Russian in the related .ipynb files.
