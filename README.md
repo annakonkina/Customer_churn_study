@@ -10,5 +10,10 @@ The aim of the projet was to cluster clients of a fitness centre and determine c
   - recommendations for working with clients to reduce churn.
 
 The clusterization was done using K-means algorithm. 
+
+Main libraries used in this project:
+- pandas
+- seaborn
+- sklearn
 _________________________________________________________________
 The work can be found both in English and Russian in the related .ipynb files.
