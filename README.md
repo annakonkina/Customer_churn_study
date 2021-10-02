@@ -17,3 +17,4 @@ Main libraries used in this project:
 - sklearn
 _________________________________________________________________
 The work can be found both in English and Russian in the related .ipynb files.
+https://nbviewer.jupyter.org/github/annakonkina/annakonkina_DA22_ML_project/blob/main/1.%20ftness_customers_churn.ipynb
