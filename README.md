@@ -1,4 +1,4 @@
-# DA22_ML_project
+# Сustomer churn study
 The project was done during my course in data analytics (https://practicum.yandex.ru/profile/data-analyst/). 
 The aim of the projet was to cluster clients of a fitness centre and determine churn factors. 
 
